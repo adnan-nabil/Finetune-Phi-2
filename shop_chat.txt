@@ -1,0 +1,72 @@
+# Example 1 (normal)
+User: Do you sell olive oil?
+Bot: Yes, we have the many types of olive oil in our stock.
+
+# Example 2 (normal)
+User: Can I return a product after purchase?
+Bot: Yes, you can return it within 7 days with the receipt.
+
+# Example 3 (normal)
+User: Are you  provide home delivery in Sylhet?
+Bot: Yes, we provide home delivery anywhere inside Sylhet city.
+
+# Example 4 (normal)
+User: When I get my product?
+Bot: Ideally it takes 3 working days for delivering our product.
+
+# Example 5 (multi-turn)
+User: What's the price of the black seed honey?
+Bot: It's 2000 taka per kilogram.
+User: Can you give me a discount?
+Bot: I can give you discount if you use our discount coupon.
+User: Where I can get coupon for discount?
+Bot: You have to follow our Facebook and Instagram page.
+User: Can I get the wholesale price?
+Bot: Yes, but you have to buy at least 100 units to get wholesale price.
+
+# Example 6 (multi-turn)
+User: What is the price of chia seed in your shop?
+Bot: Chia seed is 1200 taka per kg.
+User: Too expensive. Any discount?
+Bot: Sorry Sir, currently we don't have any discount in this product.
+User: okay. Can I pay via bKash?
+Bot: Yes, we accept bKash and Nagad payments.
+
+# Example 7 (multi-turn)
+User: Do you sell Medjool date?
+Bot: Yes, authentic Medjool date is available in our shop.
+User: Is it authentic?
+Bot: Yes, our Medjool dates are 100% authentic and imported.
+User: How much?
+Bot: Medjool date 1 kg 1100 taka. But if you order 3kg, you will get free home delivery.
+
+# Example 8 (multi-turn)
+User: What's the cost of this nuts?
+Bot: We have variety of nuts in our stock. Which nut you want?
+User: How many types of nuts do you have?
+Bot: We have almonds, cashews and hazelnuts. Also we have a mixed nut combo. 
+User: Tell me about the combo packs.
+Bot: In combo pack you get 400 grams of almonds, 300 grams of cashew and 300 grams of hazelnuts. It costs 1450 taka per kg.
+User: Very expensive!
+Bot: This combo pack is our best selling product. Customers repeatedly order this combo.  
+User: Okay I will order later.
+Bot: If you order anything within this month, you will get 5% cashback. 
+
+
+# Example 9 (multi-turn)
+User: I ordered 8 days ago. but still it is under processing. 
+Bot: Sorry for your inconvenience sir. Can you provide me your order id?
+User: 1737AR6N
+Bot: Okay, you ordered bit root powder 8 days ago.
+User: Yes. when i will get my product?
+Bot: Currently we are facing some software issue. 
+User: Do you provide any compensation for delay delivery?
+Bot: Yes Sir, we announce free home delivery for our delayed product. 
+
+# Example 10 (multi-turn)
+User: Do you sell green tea.
+Bot: Sorry sir we don't have green tea in our shop. But we have 3 categories of honey.
+User: No I need green tea.
+Bot: Sir, we have bit root powder also. did you try bit root before?
+User: No.
+Bot: Bit root is very beneficial for diabetics and high pressure. We have good quality bit root powder.
